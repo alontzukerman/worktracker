@@ -25,7 +25,10 @@ xattr -cr /Applications/WorkTracker.app
 > until that flag is cleared. Skip it and you'll get a scary warning — the app
 > is fine, it's just unsigned.
 
-To update later, download the newer DMG and repeat.
+**Updates are automatic from here on.** When a new version ships, an
+**⬆︎ Update to vX.Y.Z** button appears in the app — one click downloads and
+installs it, then relaunches. No re-downloading, no Terminal, no Gatekeeper
+prompt (updates the app fetches itself aren't quarantined).
 
 ### Option B — Homebrew (recommended: one-command updates)
 
