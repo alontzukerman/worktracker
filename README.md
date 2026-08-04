@@ -10,6 +10,25 @@ A small macOS app that measures **how much you're actually working** — not how
 
 ## Install
 
+### Option A — direct download (no Homebrew needed)
+
+1. Download **[WorkTracker.dmg](../../releases/latest)** from the latest release
+2. Open it and drag **WorkTracker** into **Applications**
+3. Run this once in Terminal, then open the app normally:
+
+```bash
+xattr -cr /Applications/WorkTracker.app
+```
+
+> **Why step 3?** The app isn't notarized by Apple (it's a personal project, not
+> a paid developer account), so macOS quarantines it and refuses to open it
+> until that flag is cleared. Skip it and you'll get a scary warning — the app
+> is fine, it's just unsigned.
+
+To update later, download the newer DMG and repeat.
+
+### Option B — Homebrew (recommended: one-command updates)
+
 ```bash
 brew tap alontzukerman/worktracker
 brew trust --cask alontzukerman/worktracker/worktracker
@@ -17,27 +36,11 @@ brew install --cask worktracker
 xattr -cr /Applications/WorkTracker.app
 ```
 
-The `xattr` line is required once: the app isn't notarized by Apple (it's a
-personal project, not a paid developer account), so macOS quarantines it and
-refuses to open it until that flag is cleared.
-
-### Updating
+Then every future update is just:
 
 ```bash
 brew upgrade --cask worktracker
 ```
-
-<details>
-<summary>Prefer a manual download?</summary>
-
-Grab the `.dmg` from [Releases](../../releases/latest), drag the app to
-Applications, then clear the quarantine flag once:
-
-```bash
-xattr -cr /Applications/WorkTracker.app
-```
-
-</details>
 
 ---
 
