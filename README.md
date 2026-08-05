@@ -56,9 +56,10 @@ keylogging — it never sees *what* you type.
 **Counts meetings as work.** Log a meeting and it counts even though you weren't
 typing. Time spent working *during* a meeting is never double-counted.
 
-**Pause when you're not working.** Watching something on the commute? Pause for
-30 min / 1 hour / 2 hours — it auto-resumes when the timer ends, so a forgotten
-pause can't swallow your day.
+**Pause when you're not working.** Watching something on the commute? Click the
+status dot to pause for an hour, or pick 30 min / 1 hour / 2 hours from the menu
+bar. It auto-resumes when the timer ends, so a forgotten pause can't swallow
+your day.
 
 **Log life, too.** Gym and food are tracked and charted, but never counted as work.
 
@@ -66,15 +67,25 @@ pause can't swallow your day.
 
 ## The dashboard
 
-- **Today · Last week · Last month · All time**
-- Working-hours headline with a status read on how the day is going
-- Activity by hour (or by day), where your time went, and your top apps
-- 📸 **Day snapshot** — export a shareable summary card, including how the day
+- **Daily goal dial** — pick a target (2–14h) and see how far along the day is
+  at a glance
+- **Today · Last 7 days · Last 30 days · All time**, plus any custom date range
+- **Pace** — how much is left today, and what time you'll reach the goal at this rate
+- **Live session** — how long this stretch of work has been going, and in which app
+- Activity **by hour, by day or by month**, with anything you logged drawn as
+  bands behind today's hours
+- Your top apps and your logged events, in the rail
+- 📸 **Day snapshot** — export a shareable card, including how the day
   compares to your all-time average
+- Drag the window narrow and it becomes a compact glance card
+
+From the menu bar: today's total, a sparkline, and `⌥⌘P` to pause / `⌥⌘N` to log
+an event.
 
 ### Themes
 
-Five palettes that retint the entire app — including exported snapshots.
+Six palettes that retint the entire app — including exported snapshots. Amber is
+the default.
 
 | Espresso ☕ | Pride 🏳️‍🌈 |
 |---|---|
