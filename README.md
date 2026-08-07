@@ -57,9 +57,9 @@ keylogging — it never sees *what* you type.
 typing. Time spent working *during* a meeting is never double-counted.
 
 **Pause when you're not working.** Watching something on the commute? Click the
-status dot to pause for an hour, or pick 30 min / 1 hour / 2 hours from the menu
-bar. It auto-resumes when the timer ends, so a forgotten pause can't swallow
-your day.
+status dot — or the menu-bar icon — and pick **30 min · 1 hour · until tomorrow ·
+until I resume**. Everything but the last auto-resumes when it expires, so a
+forgotten pause can't swallow your day.
 
 **Log life, too.** Gym and food are tracked and charted, but never counted as work.
 
@@ -79,8 +79,9 @@ your day.
   compares to your all-time average
 - Drag the window narrow and it becomes a compact glance card
 
-From the menu bar: today's total, a sparkline, and `⌥⌘P` to pause / `⌥⌘N` to log
-an event.
+From the menu bar: a small card with today's total, your progress toward the
+goal, and the focused / meetings split. `⌥⌘P` pauses and `⌥⌘N` logs an event from
+anywhere.
 
 ### Themes
 
