@@ -85,8 +85,10 @@ anywhere.
 
 ### Themes
 
-Six palettes that retint the entire app — including exported snapshots. Amber is
-the default.
+**Light, dark, or follow the system** — and six palettes that retint the entire
+app, including exported snapshots. Amber is the default. Light mode is derived
+from whichever palette you pick, so each one keeps its own character rather than
+collapsing to the same white.
 
 | Espresso ☕ | Pride 🏳️‍🌈 |
 |---|---|
