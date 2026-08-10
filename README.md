@@ -74,14 +74,17 @@ forgotten pause can't swallow your day.
 - **Live session** — how long this stretch of work has been going, and in which app
 - Activity **by hour, by day or by month**, with anything you logged drawn as
   bands behind today's hours
-- Your top apps and your logged events, in the rail
-- 📸 **Day snapshot** — export a shareable card, including how the day
-  compares to your all-time average
+- Your top apps and your logged events, in a floating sidebar
+- **Day snapshot** — export a shareable card of the day (below)
 - Drag the window narrow and it becomes a compact glance card
 
-From the menu bar: a small card with today's total, your progress toward the
-goal, and the focused / meetings split. `⌥⌘P` pauses and `⌥⌘N` logs an event from
-anywhere.
+### From the menu bar
+
+A deliberately minimal card: today's total, progress toward the goal, and the
+focused / meetings split. Pause, log event and quit live in the tray's
+right-click menu; `⌥⌘P` pauses and `⌥⌘N` logs an event from anywhere.
+
+<img src="screenshots/menubar-card.png" width="346" alt="The menu-bar card" />
 
 ### Themes
 
@@ -90,9 +93,17 @@ app, including exported snapshots. Amber is the default. Light mode is derived
 from whichever palette you pick, so each one keeps its own character rather than
 collapsing to the same white.
 
-| Espresso ☕ | Pride 🏳️‍🌈 |
-|---|---|
-| ![Espresso](screenshots/dashboard-espresso.png) | ![Pride](screenshots/dashboard-pride.png) |
+| Amber · light | Pride · dark | Espresso · dark |
+|---|---|---|
+| ![Amber in light mode](screenshots/dashboard-light-amber.png) | ![Pride](screenshots/dashboard-pride.png) | ![Espresso](screenshots/dashboard-espresso.png) |
+
+### Day snapshot
+
+Export the day as a shareable card — working hours, how it compares to your
+all-time average, the by-hour chart and your top apps. Captured at 2× and saved
+wherever you like.
+
+<img src="screenshots/day-snapshot.png" width="400" alt="An exported day snapshot" />
 
 ---
 
