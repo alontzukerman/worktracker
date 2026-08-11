@@ -63,6 +63,11 @@ forgotten pause can't swallow your day.
 
 **Log life, too.** Gym and food are tracked and charted, but never counted as work.
 
+**Knows which days are yours.** Pick your working days in Settings — Sun–Thu,
+Mon–Fri, a four-day week, whatever you actually work — and only those days count
+toward your average. A day under an hour doesn't count either, so vacation, sick
+days and holidays drop out on their own with nothing to mark.
+
 ---
 
 ## The dashboard
