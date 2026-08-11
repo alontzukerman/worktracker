@@ -82,6 +82,7 @@ days and holidays drop out on their own with nothing to mark.
 - Your top apps and your logged events, in a floating sidebar
 - **Day snapshot** — export a shareable card of the day (below)
 - Drag the window narrow and it becomes a compact glance card
+- Remembers its size and position between launches
 
 ### From the menu bar
 
