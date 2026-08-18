@@ -74,13 +74,14 @@ days and holidays drop out on their own with nothing to mark.
 
 - **Daily goal dial** — pick a target (2–14h) and see how far along the day is
   at a glance
-- **Today · Last 7 days · Last 30 days · All time**, plus any custom date range
+- **Today · Yesterday · Last 7 days · Last 30 days · All time**, plus any
+  custom date range
 - **Pace** — how much is left today, and what time you'll reach the goal at this rate
 - **Live session** — how long this stretch of work has been going, and in which app
 - Activity **by hour, by day or by month**, with anything you logged drawn as
   bands behind today's hours
 - Your top apps and your logged events, in a floating sidebar
-- **Day snapshot** — export a shareable card of the day (below)
+- **Snapshot** — export a shareable card of whatever range you're looking at (below)
 - Drag the window narrow and it becomes a compact glance card
 - Remembers its size and position between launches
 
@@ -103,13 +104,14 @@ collapsing to the same white.
 |---|---|---|
 | ![Amber in light mode](screenshots/dashboard-light-amber.png) | ![Pride](screenshots/dashboard-pride.png) | ![Espresso](screenshots/dashboard-espresso.png) |
 
-### Day snapshot
+### Snapshot
 
-Export the day as a shareable card — working hours, how it compares to your
-all-time average, the by-hour chart and your top apps. Captured at 2× and saved
-wherever you like.
+Export a shareable card of the range on screen — working hours, how it compares
+to your all-time average, the chart and your top apps. A single day shows its
+hours; a span leads with the total and the average working day behind it.
+Captured at 2× and saved wherever you like.
 
-<img src="screenshots/day-snapshot.png" width="400" alt="An exported day snapshot" />
+<img src="screenshots/day-snapshot.png" width="400" alt="An exported snapshot card" />
 
 ---
 
