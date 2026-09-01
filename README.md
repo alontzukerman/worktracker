@@ -78,12 +78,21 @@ days and holidays drop out on their own with nothing to mark.
   custom date range
 - **Pace** — how much is left today, and what time you'll reach the goal at this rate
 - **Live session** — how long this stretch of work has been going, and in which app
-- Activity **by hour, by day or by month**, with anything you logged drawn as
-  bands behind today's hours
+- Activity **by hour, by day or by month**, as **bars or a heatmap**, with
+  anything you logged drawn as bands behind today's hours
 - Your top apps and your logged events, in a floating sidebar
 - **Snapshot** — export a shareable card of whatever range you're looking at (below)
 - Drag the window narrow and it becomes a compact glance card
 - Remembers its size and position between launches
+
+### Bars or heatmap
+
+Flip any chart between plain bars and a heatmap from a toggle in its header. A
+single day becomes a 10-minute grid; a multi-day range a **day-by-hour** matrix
+that shows *when* you actually work; all time a calendar. It fills the panel at
+any window size and remembers which you prefer.
+
+![The dashboard as a day-by-hour heatmap](screenshots/dashboard-heatmap.png)
 
 ### From the menu bar
 
