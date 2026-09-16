@@ -89,10 +89,26 @@ days and holidays drop out on their own with nothing to mark.
 - **Live session** — how long this stretch of work has been going, and in which app
 - Activity **by hour, by day or by month**, as **bars or a heatmap**, with
   anything you logged drawn as bands behind today's hours
-- Your top apps and your logged events, in a floating sidebar
+- Your top apps and your logged events, in a floating rail
 - **Snapshot** — export a shareable card of whatever range you're looking at (below)
 - Drag the window narrow and it becomes a compact glance card
 - Remembers its size and position between launches
+
+### One rail, three screens
+
+A slim rail runs down the left: the dashboard, the Throne Room, and settings.
+**Hover it and it opens** over whatever you're looking at — nothing on the page
+moves, so there's no pin to manage and no width to give up. The ring at the top
+is today's progress, and it stays with you on every screen.
+
+### Settings, with room to breathe
+
+Settings is a screen now, not a popover — General, Tracking, Appearance and
+About, with the rail carrying the categories. Every control has room for a line
+saying what it actually does, and the break-detection range finally has enough
+width to label every stop on its scale instead of every other one.
+
+![Settings](screenshots/settings-screen.png)
 
 ### Bars or heatmap
 
