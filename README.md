@@ -56,6 +56,15 @@ keylogging — it never sees *what* you type.
 **Counts meetings as work.** Log a meeting and it counts even though you weren't
 typing. Time spent working *during* a meeting is never double-counted.
 
+**Asks about the time you were away.** Step away for a while and a small card
+drops under the menu-bar icon when you get back: one tap files it as **Meeting ·
+Gym · Food · Poop**, with an optional title and the measured times ready to trim.
+A meeting logged this way counts toward the day, so the hour you spent in a room
+finally shows up. The card never takes focus, so it can't eat the keystroke you
+came back to. Closing the lid counts too — a Mac that sleeps through a meeting is
+offered the gap on wake. Set which gaps are worth asking about in Settings,
+anywhere from 5 minutes to 4 hours, or switch it off entirely.
+
 **Pause when you're not working.** Watching something on the commute? Click the
 status dot — or the menu-bar icon — and pick **30 min · 1 hour · until tomorrow ·
 until I resume**. Everything but the last auto-resumes when it expires, so a
@@ -101,6 +110,14 @@ focused / meetings split. Pause, log event and quit live in the tray's
 right-click menu; `⌥⌘P` pauses and `⌥⌘N` logs an event from anywhere.
 
 <img src="screenshots/menubar-card.png" width="346" alt="The menu-bar card" />
+
+### When you get back
+
+Away past your threshold and this is waiting under the menu-bar icon. The times
+are what the tracker measured, editable before you commit them, and the range
+that triggers it is yours to set.
+
+<img src="screenshots/welcome-back.png" width="346" alt="The welcome-back card" />
 
 ### Themes
 
