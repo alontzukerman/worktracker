@@ -65,8 +65,8 @@ came back to. Closing the lid counts too — a Mac that sleeps through a meeting
 offered the gap on wake. Set which gaps are worth asking about in Settings,
 anywhere from 5 minutes to 4 hours, or switch it off entirely.
 
-**Pause when you're not working.** Watching something on the commute? Click the
-status dot — or the menu-bar icon — and pick **30 min · 1 hour · until tomorrow ·
+**Pause when you're not working.** Watching something on the commute? Hit
+**Pause** at the foot of the sidebar — or use the menu-bar icon — and pick **30 min · 1 hour · until tomorrow ·
 until I resume**. Everything but the last auto-resumes when it expires, so a
 forgotten pause can't swallow your day.
 
@@ -89,24 +89,28 @@ days and holidays drop out on their own with nothing to mark.
 - **Live session** — how long this stretch of work has been going, and in which app
 - Activity **by hour, by day or by month**, as **bars or a heatmap**, with
   anything you logged drawn as bands behind today's hours
-- Your top apps and your logged events, in a floating rail
+- Your top apps and your logged events in a full-height side panel — hide it
+  from the toolbar when you want the chart wider
 - **Snapshot** — export a shareable card of whatever range you're looking at (below)
-- Drag the window narrow and it becomes a compact glance card
 - Remembers its size and position between launches
 
-### One rail, three screens
+### Laid out like a Mac app
 
-A slim rail runs down the left: the dashboard, the Throne Room, and settings.
-**Hover it and it opens** over whatever you're looking at — nothing on the page
-moves, so there's no pin to manage and no width to give up. The ring at the top
-is today's progress, and it stays with you on every screen.
+A floating sidebar runs the full height of the window, with the window controls
+inside it: the dashboard, the Throne Room and settings, today's progress ring at
+the top and the pause button at the foot — on every screen. The content sits
+between it and a side panel that runs flush to the edge, like Apple Music's, and
+the toolbar's buttons float over the content the way Finder's do, with no title
+bar at all. Make the window narrower and the content gives up room first, then
+the side panel, and then it stops — nothing ever reflows into a cramped layout.
 
 ### Settings, with room to breathe
 
-Settings is a screen now, not a popover — General, Tracking, Appearance and
-About, with the rail carrying the categories. Every control has room for a line
-saying what it actually does, and the break-detection range finally has enough
-width to label every stop on its scale instead of every other one.
+Settings is a screen, shaped like System Settings — General, Tracking and
+Appearance in the sidebar, each opening with its own header card, and back /
+forward in the toolbar. Every control has room for a line saying what it actually
+does, the break-detection range labels every stop on its scale, and the palettes
+are named instead of being six anonymous swatches.
 
 ![Settings](screenshots/settings-screen.png)
 
