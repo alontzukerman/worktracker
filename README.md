@@ -77,6 +77,12 @@ Mon–Fri, a four-day week, whatever you actually work — and only those days c
 toward your average. A day under an hour doesn't count either, so vacation, sick
 days and holidays drop out on their own with nothing to mark.
 
+**Fix a day after the fact.** Forgot to pause on a day off, or only worked half
+of it? Pick the day and tap **Mark day**: **Full day**, **Half day** or **Not
+worked**. A half day counts as half a day — four hours on it reads as on pace —
+and a day you weren't working drops out of your averages. Its hours still show
+in every total; a mark only changes how the day is averaged.
+
 ---
 
 ## The dashboard
