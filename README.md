@@ -66,7 +66,7 @@ offered the gap on wake. Set which gaps are worth asking about in Settings,
 anywhere from 5 minutes to 4 hours, or switch it off entirely.
 
 **Pause when you're not working.** Watching something on the commute? Hit
-**Pause** at the foot of the sidebar — or use the menu-bar icon — and pick **30 min · 1 hour · until tomorrow ·
+**Pause** at the foot of the sidebar or on the menu-bar card, and pick **30 min · 1 hour · until tomorrow ·
 until I resume**. Everything but the last auto-resumes when it expires, so a
 forgotten pause can't swallow your day.
 
@@ -131,9 +131,9 @@ any window size and remembers which you prefer.
 
 ### From the menu bar
 
-A deliberately minimal card: today's total, progress toward the goal, and the
-focused / meetings split. Pause, log event and quit live in the tray's
-right-click menu; `⌥⌘P` pauses and `⌥⌘N` logs an event from anywhere.
+A deliberately minimal card: today's total, progress toward the goal, the
+focused / meetings split, and a **Pause** / **Resume** button. Log event and quit
+live in the tray's right-click menu; `⌥⌘P` pauses and `⌥⌘N` logs an event from anywhere.
 
 <img src="screenshots/menubar-card.png" width="346" alt="The menu-bar card" />
 
@@ -147,7 +147,7 @@ that triggers it is yours to set.
 
 ### Themes
 
-**Light, dark, or follow the system** — and six palettes that retint the entire
+**Light, dark, or follow the system** — and twelve palettes (Synthwave, Tide, Grape, Lava, Lemonade and Noir are new) that retint the entire
 app, including exported snapshots. Amber is the default. Light mode is derived
 from whichever palette you pick, so each one keeps its own character rather than
 collapsing to the same white.
