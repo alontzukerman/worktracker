@@ -103,7 +103,7 @@ in every total; a mark only changes how the day is averaged.
 ### Laid out like a Mac app
 
 A floating sidebar runs the full height of the window, with the window controls
-inside it: the dashboard, the Throne Room and settings, today's progress ring at
+inside it: the dashboard, Stats, the Throne Room and settings, today's progress ring at
 the top and the pause button at the foot — on every screen. The content sits
 between it and a side panel that runs flush to the edge, like Apple Music's, and
 the toolbar's buttons float over the content the way Finder's do, with no title
@@ -128,6 +128,23 @@ that shows *when* you actually work; all time a calendar. It fills the panel at
 any window size and remembers which you prefer.
 
 ![The dashboard as a day-by-hour heatmap](screenshots/dashboard-heatmap.png)
+
+### Stats
+
+The dashboard tells you how much you worked. **Stats** tells you how: when you
+usually start and finish, which weekdays run heaviest, how much of your time
+lands in long deep-work blocks versus five-minute fragments, how often you hop
+between apps, and how each week tracks against your goal. A Records panel keeps
+your bests — longest day, best week, longest session, earliest start, goal
+streaks — and every number follows the same range picker as the dashboard, with
+a chip comparing it to the period before.
+
+It reads the same numbers the dashboard does, so the two never disagree, and it
+only ever reads: nothing on the screen can change your data. Minute-level detail
+(sessions, start times, switching) covers the last 100 days; past that, totals
+and trends still reach back to your first day.
+
+![The Stats screen](screenshots/stats-screen.png)
 
 ### From the menu bar
 
